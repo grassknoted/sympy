@@ -1,8 +1,6 @@
 SymPy
 =====
 
-|pypi version| |Build status| |Gitter Badge| |Zenodo Badge|
-
 .. |pypi version| image:: https://img.shields.io/pypi/v/sympy.svg
    :target: https://pypi.python.org/pypi/sympy
 .. |Build status| image:: https://secure.travis-ci.org/sympy/sympy.svg?branch=master
